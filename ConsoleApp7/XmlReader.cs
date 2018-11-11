@@ -7,6 +7,7 @@ using System.Xml;
 
 namespace ConsoleApp7
 {
+    //https://coursehunters.net/course/master-klass-po-laravel
     class XmlReader
     {
         XmlDocument xDoc;
